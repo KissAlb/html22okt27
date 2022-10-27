@@ -10,3 +10,11 @@
 body{
     font-family: 'Abril Fatface', cursive;
 }
+
+aside{
+    float: right;
+    border: 10px;
+    border-radius: 10px;
+    text-align: justify;
+    
+}
