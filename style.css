@@ -16,5 +16,8 @@ aside{
     border: 10px;
     border-radius: 10px;
     text-align: justify;
-    
+    color: aqua;
+    background-color: black;
+    border-color: cornflowerblue;
+
 }
